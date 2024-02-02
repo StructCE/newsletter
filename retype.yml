@@ -1,6 +1,10 @@
 input: .
 output: .retype
-url: newsletter.struct.com
+url: newsletter.structej.com/
+
+edit:
+  repo: "https://github.com/StructCE/newsletter"
+  label: Altere essa página no GitHub.
 
 branding:
   title: Newsletter - Struct
