@@ -168,24 +168,23 @@ Sabia que todos os mamíferos são capazes de saltar, menos os elefantes?
 
 #### O que a diretoria tenha feito?
 
-<<<<<<< HEAD
-Passamos a utilizar o RETYPE para Newsletters
-Planejamento de Postagens
-Nova arte do card de aniversariantes
-Estudo em Google Ads e preparando documentação do mesmo.
-=======
 - Passamos a utilizar o RETYPE para Newsletters
 - Planejamento de Postagens
 - Nova arte do card de aniversariantes
 - Estudo em Google Ads e preparando documentação do mesmo.
->>>>>>> 1ea3c8715aa8b1e98d230388b73b797fd1a541a8
 
 #### Alguma novidade ou fato divertido?
 
 Essa linda Newsletter tá sendo feita no RETYPE.
 O diretor de MKT aqui perdeu a noção do dia e ia fazer uma reunião um dia antes dela, sorte que me avisaram kkkkkkkkk.
 
-<<<<<<< HEAD
+#### Feedbacks recebidos:
+
+![](/static/img_2024/primeira_ed/card_feedbacks/Marketing.png)
+![](/static/img_2024/primeira_ed/card_feedbacks/Guilherme.png)
+![](/static/img_2024/primeira_ed/card_feedbacks/Demétrius.png)
+![](/static/img_2024/primeira_ed/card_feedbacks/Sarah.png)
+
 ## Espaço de convivência
 
 ![](/static/img_2024/primeira_ed/img_espaço_convivencia/NewPromoLogo.png)
@@ -427,13 +426,3 @@ Obrigado quem chegou até aqui. Receba o troféu dos chefes e de algumas criatur
 ![](/static/img_2024/primeira_ed/img_espaço_convivencia/Placed_Trophies.png)
 
 Espaço de convivencia por Gui
-=======
-#### Feedbacks recebidos:
-
-![](/static/img_2024/primeira_ed/card_feedbacks/Marketing.png)
-![](/static/img_2024/primeira_ed/card_feedbacks/Guilherme.png)
-![](/static/img_2024/primeira_ed/card_feedbacks/Demétrius.png)
-![](/static/img_2024/primeira_ed/card_feedbacks/Sarah.png)
-
-## Espaço de convivência
->>>>>>> 1ea3c8715aa8b1e98d230388b73b797fd1a541a8
