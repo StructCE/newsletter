@@ -101,7 +101,11 @@ Tá dando bastante certo nossa divisão de tarefas :)
 
 #### O que a diretoria tenha feito?
 
+Estamos continuando (e melhorando) a documentação da nova stack, pesquisando melhorias na nossa forma de fazer deploy e implementamos duas soluções para o deploy do retype sem pagar pelo limite de páginas (uma com servidor e outra sem)
+
 #### Alguma novidade ou fato divertido?
+
+Struct começou com pé direito. Não estamos encontrando dificuldades nas tarefas e as encontradas são resolvidas. Do mais, tivemos, pela primeira vez em muito tempo, 3 projetos em andamento simultâneo na empresa
 
 #### Feedbacks recebidos:
 
@@ -185,9 +189,16 @@ O diretor de MKT aqui perdeu a noção do dia e ia fazer uma reunião um dia ant
 ![](/static/img_2024/primeira_ed/card_feedbacks/Demétrius.png)
 ![](/static/img_2024/primeira_ed/card_feedbacks/Sarah.png)
 
+<br>
+<br>
+
 ## Espaço de convivência
 
+<br>
+
 ![](/static/img_2024/primeira_ed/img_espaço_convivencia/NewPromoLogo.png)
+
+<br>
 
 Alguns devem conhecer esse jogo e outros ouviram falar, se você não conhece esse jogo sugiro fortemente jogar ele. Ah, e jogue ele nas férias!
 
@@ -195,7 +206,7 @@ Este espaço de convivência é uma review do jogo em que sua cronologia seguir�
 
 É válido falar também que eu tenho 900 horas de Terraria registrada pela Steam.
 
-Começando
+Começando...
 
 Quando você cria seu personagem e seu mundo você nasce em um mundo assim e nesse bioma de floresta:
 
