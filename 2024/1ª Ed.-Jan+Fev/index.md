@@ -45,7 +45,17 @@ Iniciando projeto, reuniões, design inicial.
 
 Não.
 
-##### 3. exemplo 3
+##### 3. Winx 2.0 - Gerente Pedro Ximenes:
+
+###### O que tenha acontecido no Projeto?
+
+- Organização do ambiente de desenvolvimento
+- Arrumando estrutura de automação junto com o cliente no site deles
+- Primeira reunião do projeto com apresentação
+
+###### O projeto já encerrou? Se sim, como foi o encerramento?
+
+Começamos essa semana.
 
 ### Presidência: Jéssica Leal
 
@@ -54,6 +64,16 @@ Juntamente com a diretoria de Gestão de Pessoas, a Presidência tem organizado 
 #### Alguma novidade ou fato divertido?
 O NOSSO PROFESSOR ORIENTADOR FINALMENTE ME RESPONDEU
 (weeeeee are the championnnsss, my frieeenddddd)(barulho de caminhao)(GRITO)(dancinha da vitória)
+
+### Assessor da Presidência - Diretor: Daniel José
+
+#### O que a diretoria tenha feito?
+
+2 reuniões com conselho da Concentro e deliberação da JFE. 
+
+#### Alguma novidade ou fato divertido?
+
+Tá dando bastante certo nossa divisão de tarefas :)
 
 ### Diretoria de Projetos - Diretor: Paulo
 
@@ -72,13 +92,24 @@ Acho que não.
 
 #### O que a diretoria tenha feito?
 
+- Resolvendo questões bancárias, sendo a troca de gestão do Banco do Brasil e do Cora.
+- Tarefas periódicas da diretoria
+- Organização do Drive da empresa
+
 #### Alguma novidade ou fato divertido?
+
+Fui para o Banco resolver o problema da conta e não consegui finalizar pq preciso levar o notebook pra cadastrar e poder acessar a conta (detalhe: o carregador do meu not estragou ent n consigo ligar ele).
+
 
 ### Diretoria de Gestão de Pessoas - Diretor: Daniel José
 
 #### O que a diretoria tenha feito?
 
+Estivemos fazendo o acolhimento de membros de início de ano, Imersão, acompanhamento Struct Talks, SPACE e sendo a melhor diretoria como sempre.
+
 #### Alguma novidade ou fato divertido?
+
+Sabia que todos os mamíferos são capazes de saltar, menos os elefantes?
 
 ### Diretoria de Marketing - Diretor: Guilherme Sampaio
 
