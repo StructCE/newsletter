@@ -16,9 +16,25 @@ Nesta edição da Newsletter, você perceberá que estamos recheados de novidade
 ![Daniel e Jéssica dando uma introdução](/static/img_2024/segunda_ed/images/intro_imersao.jpg)
 :::
 
+:::img_cubo_imersao
+![Cubo, ex-membro, da uma palestra da linha do tempo da Struct](/static/img_2024/segunda_ed/images/cubo.jpg)
+:::
+
+:::
+![Otho, ex-membro, complementa a historia da Struct](/static/img_2024/segunda_ed/images/Otho.png)
+:::
+
+:::
+![Gabriel, ex-membro, aborda sobre termos tecnicos](/static/img_2024/segunda_ed/images/Gabriel.png)
+:::
+
+Arthur Mota, ex-membro, também palestrou, mas não temos fotos de sua palestra porque todo mundo estava focado no raciocinio dele, rs. Sua palestra foi sobre curiosidades do JavaScript e JSfuck, que por sinal foi uma coisa inétita.
+
 Fica aqui o agradecimento especial a todos que participaram, palestrantes e créditos especiais ao Dan e a Jéssica que foram os principais organizadores do evento
 
 ### Trainee
+
+Já houve anuncio do processo seletivo, entrevista e agora estamos de fato no processo trainee. No processo seletivo colocamos uma meta de 35 inscritos e nos conseguimos atigir a meta com 38 inscritos no PS.
 
 ### Líderes da Nação
 
@@ -257,5 +273,10 @@ Nossos reels deram um engajamento muito grande no Instagram e um deles bateu 260
 
     .filho_3_gravacao {
         width: 30.11%;
+    }
+
+    .img_cubo_imersao {
+        width: 30%;
+        margin: auto;
     }
 </style>
