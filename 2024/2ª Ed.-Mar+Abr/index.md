@@ -89,7 +89,11 @@ Projeto pronto, finalizado com sucesso.
 
 ##### O que tenha acontecido no Projeto?
 
+O cliente está testando e avaliando o projeto.
+
 ##### O projeto já encerrou? Se sim, como foi o encerramento?
+
+Não, aguardando feedback do teste do cliente
 
 # Diretorias
 
@@ -161,7 +165,11 @@ Desde que criamos o WhatsApp da empresa (https://wa.me/556190000093), chegaram m
 
 #### O que a diretoria tenha feito?
 
+Organização da sede e da documentação da empresa. Cuidado com selo ej (terceira fase)
+
 #### Alguma novidade ou fato divertido?
+
+Eu e a diretora de admfin da Mecajun apostamos nossa sede contra a galera da Concreta num jogo de sinuca no LDN (perdemos 😢)
 
 #### Feedbacks recebidos:
 
