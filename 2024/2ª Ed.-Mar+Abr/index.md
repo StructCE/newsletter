@@ -24,10 +24,11 @@ label: "2ª Ed. - Março - Abril"
 
 ##### O que tenha acontecido no Projeto?
 
+Já foi terminado.
 
 ##### O projeto já encerrou? Se sim, como foi o encerramento?
 
-
+Sim, pelo que fiquei sabendo o cliente não pegou o projeto.
 
 #### 2. Site Struct 2024 - Gerente Leonardo:
 
@@ -149,4 +150,4 @@ Nossos reels deram um engajamento muito grande no Instagram e um deles bateu 260
 
 #### Feedbacks recebidos:
 
-## Espaço de convivência
+
