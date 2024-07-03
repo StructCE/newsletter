@@ -24,6 +24,9 @@ Ficamos sabendo que o Congresso da Sociedade Brasileira de Computação, que oco
 
 ### Roda de conversa - Gestão de Tempo
 
+O evento foi totalmente presencial: começamos com uma dinâmica pra fazer a galera perceber como cada um tem sua própria gestão de tempo: Cada um contando até 30 segundos de olhos fechados nas cadeiras para no fim levantar. O resultado mostrou que cada um levantou no seu ritmo. Como primeira pauta, falamos sobre apps e ferramentas que podem ajudar a gnt a organizar nosso tempo melhor, alguns citados foram Millanote, Notion, Snippets para Next, Forest, Spirit City: Lofi Sessions entre outros.Posteriormente, tivemos um momento para falarmos das dificuldades. Foi um momento pros membros se abrirem para falar de onde surge mais dificuldades em gerir o tempo. O problema em comum mais citado foi a velha UnB, como de se esperar, mas fomos um pouco a fundo de como a variação na grade horária entre os semestres impactam nossa rotina.Com isso, fomos para as soluções: Conversamos sobre o que cada um faz pra gerenciar melhor o seu dia e demos um espaço para apresentar técnicas de gestão de tempo, ouvimos desde Pomodoro até pura pressão. Por fim tivemos uma gamificacão surpresa apresentada pela GP como dever de casa: para as pessoas que compareceram, quem tiver o maior aumento de horas de Maio pra Junho no clockify vai ganhar 20% das horas feitas como pontos na corrida de foguetes :eyes:                                                                                       
+Depois de tudo, tivemos um lanchinho com coxinhas e bolinhas de queijo.
+
 ### Sábado Júnior
 
 O Sábado Júnior foi **SURREAL**!!! Tivemos a oportunidade de subir no **PALCO**, participar de Benchs Guiadas, discutir sobre as dificuldades enfrentadas pelas Empresas Júnior e assistir a uma variedade de palestras específicas para cada diretoria.
@@ -96,10 +99,14 @@ No almoço do Sábado Júnior, fomos comer no BK e colocamos **7 pessoas** dentr
 
 #### O que a diretoria tenha feito?
 
-
+Reuniões do Conselho da Concentro;                                  
+Check- in com nossa copilota (Duda);                                                                   
+Revisando planejamento estratégico                               
 
 #### Alguma novidade ou fato divertido?
 
+1º: Na nossa aula para o Trainee tivemos a participação do nosso Ex-presidente organizacional, Arthur de Sá! É bom que os trainees estejam um pouco mais a par da nossa história :)                                                                                 
+2º : Tivemos mais uma troca de Copilota (membro da concentro que nos dá apoio), dessa vez é a Duda, que também é de Engenharia de Computação, e tem nos ajudado bastante recentemente :D
 
 ## Diretoria de Projetos - Diretor: Paulo
 
