@@ -24,20 +24,21 @@ Ficamos sabendo que o Congresso da Sociedade Brasileira de Computação, que oco
 
 ### Roda de conversa - Gestão de Tempo
 
-O evento foi totalmente presencial: começamos com uma dinâmica pra fazer a galera perceber como cada um tem sua própria gestão de tempo: Cada um contando até 30 segundos de olhos fechados nas cadeiras para no fim levantar. O resultado mostrou que cada um levantou no seu ritmo. Como primeira pauta, falamos sobre apps e ferramentas que podem ajudar a gnt a organizar nosso tempo melhor, alguns citados foram Millanote, Notion, Snippets para Next, Forest, Spirit City: Lofi Sessions entre outros.Posteriormente, tivemos um momento para falarmos das dificuldades. Foi um momento pros membros se abrirem para falar de onde surge mais dificuldades em gerir o tempo. O problema em comum mais citado foi a velha UnB, como de se esperar, mas fomos um pouco a fundo de como a variação na grade horária entre os semestres impactam nossa rotina.Com isso, fomos para as soluções: Conversamos sobre o que cada um faz pra gerenciar melhor o seu dia e demos um espaço para apresentar técnicas de gestão de tempo, ouvimos desde Pomodoro até pura pressão. Por fim tivemos uma gamificacão surpresa apresentada pela GP como dever de casa: para as pessoas que compareceram, quem tiver o maior aumento de horas de Maio pra Junho no clockify vai ganhar 20% das horas feitas como pontos na corrida de foguetes :eyes:                                                                                       
+O evento foi totalmente presencial: começamos com uma dinâmica pra fazer a galera perceber como cada um tem sua própria gestão de tempo: Cada um contando até 30 segundos de olhos fechados nas cadeiras para no fim levantar. O resultado mostrou que cada um levantou no seu ritmoComo primeira pauta, falamos sobre apps e ferramentas que podem ajudar a gnt a organizar nosso tempo melhor, alguns citados foram Millanote, Notion, Snippets para Next, Forest, Spirit City: Lofi Sessions entre outros.Posteriormente, tivemos um momento para falarmos das dificuldades. Foi um momento pros membros se abrirem para falar de onde surge mais dificuldades em gerir o tempo. O problema em comum mais citado foi a velha UnB, como de se esperar, mas fomos um pouco a fundo de como a variação na grade horária entre os semestres impactam nossa rotina.Com isso, fomos para as soluções: Conversamos sobre o que cada um faz pra gerenciar melhor o seu dia e demos um espaço para apresentar técnicas de gestão de tempo, ouvimos desde Pomodoro até pura pressão  .Por fim tivemos uma gamificacão surpresa apresentada pela GP como dever de casa: para as pessoas que compareceram, quem tiver o maior aumento de horas de Maio pra Junho no clockify vai ganhar 20% das horas feitas como pontos na corrida de foguetes :eyes:                                                                          
 Depois de tudo, tivemos um lanchinho com coxinhas e bolinhas de queijo.
 
 ### Sábado Júnior
 
 O Sábado Júnior foi **SURREAL**!!! Tivemos a oportunidade de subir no **PALCO**, participar de Benchs Guiadas, discutir sobre as dificuldades enfrentadas pelas Empresas Júnior e assistir a uma variedade de palestras específicas para cada diretoria.
 
-![](/static/img_2024/terceira_ed/images/Todos_que_foram_no_Sabado_Junior.jpg)
+![Todos os presentes no Sábado Júnior](/static/img_2024/terceira_ed/images/Todos_que_foram_no_Sabado_Junior.jpg)
 
 ![](/static/img_2024/terceira_ed/images/Subimos_no_palco_Sabado_Junior.jpg)
 
-![](/static/img_2024/terceira_ed/images/Almoco_no_BK_Sabado_Junior.jpg)
+![Fotinha no BK (almocinho Sábado Júnior)](/static/img_2024/terceira_ed/images/Almoco_no_bk_Sabado_Junior_02.jpg)
 
-![](/static/img_2024/terceira_ed/images/Almoco_no_bk_Sabado_Junior_02.jpg)
+![Ps: Desculpe Matheus](/static/img_2024/terceira_ed/images/Almoco_no_BK_Sabado_Junior.jpg)
+
 
 
 ### Feedbacks gerais:
@@ -68,13 +69,15 @@ Encerramento está sendo bem rápido, preparando para feedback do cliente.
 
 ##### O que tenha acontecido no Projeto?
 
-Entregamos as mudanças para o cliente, agora eles estão validando o projjeto e vamos colocar em produção nos próximos dias.
+Entregamos as mudanças para o cliente, agora eles estão validando o projeto e vamos colocar em produção nos próximos dias.
 
 ##### O projeto já encerrou? Se sim, como foi o encerramento?
 
-Ainda não mas está próximo.
+Ainda não, mas está próximo.
 
 # Diretorias
+
+![Primeira vez da Direx reunida desde que assumimos os cargos](/static/img_2024/terceira_ed/images/Primeira_vez_direx_reunida_desde_que_assumimos_os_cargos.jpg)
 
 ## Presidência: Jéssica Leal
 
@@ -89,7 +92,7 @@ Por fim, estamos conversando com a Praxis sobre a Análise de Desempenho, que eu
 No almoço do Sábado Júnior, fomos comer no BK e colocamos **7 pessoas** dentro do meu carrito (o póbi do Gui teve de ir no porta-malas)...            
 **OBS: Se o Detran ler esse texto, é tudo mentira!!!**
 
-![](/static/img_2024/terceira_ed/images/7_pessoas_em_1_carro_Sábado_Júnior.jpg)
+![SIMPLESMENTE SETE PESSOAS EM UM CARRO **ps: Detran, é montagem**](/static/img_2024/terceira_ed/images/7_pessoas_em_1_carro_Sábado_Júnior.jpg)
 
 #### Feedbacks recebidos:
 
