@@ -37,11 +37,18 @@ O Sábado Júnior foi **SURREAL**!!! Tivemos a oportunidade de subir no **PALCO*
 
 ![Fotinha no BK (almocinho Sábado Júnior)](/static/img_2024/terceira_ed/images/Almoco_no_bk_Sabado_Junior_02.jpg)
 
-![Ps: Desculpe Matheus](/static/img_2024/terceira_ed/images/Almoco_no_BK_Sabado_Junior.jpg)
+![Ps: Perdón Matheus](/static/img_2024/terceira_ed/images/Almoco_no_BK_Sabado_Junior.jpg)
 
 
 
 ### Feedbacks gerais:
+
+![](/static/img_2024/terceira_ed/card_feedbacks/geral.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/csbc.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/dev_app.png)
+
 
 ### Atualizações de Projetos:
 
@@ -96,7 +103,7 @@ No almoço do Sábado Júnior, fomos comer no BK e colocamos **7 pessoas** dentr
 
 #### Feedbacks recebidos:
 
-
+![](/static/img_2024/terceira_ed/card_feedbacks/Jéssica.png)
 
 ## Assessor da Presidência - Diretor: Daniel José
 
@@ -115,14 +122,21 @@ Revisando planejamento estratégico
 
 #### O que a diretoria tenha feito?
 
-
+Acompanhamento dos projetos Mind, Computec, Winx e mais ou menos do StructLab, além de muitas análises de requisitos.
 
 #### Alguma novidade ou fato divertido?
 
+Matheus não dorme mais.
 
 #### Feedbacks recebidos:
 
+![](/static/img_2024/terceira_ed/card_feedbacks/geral.png)
 
+![](/static/img_2024/terceira_ed/card_feedbacks/matheus.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/pedro_amorim.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/weldo.png)
 
 ## Diretoria de Comercial - Diretor: Kaleb Henrique
 
@@ -136,7 +150,15 @@ Agora é oficial! Membros de comercial começaram a receber Struct Coins adicion
 
 #### Feedbacks recebidos:
 
+![](/static/img_2024/terceira_ed/card_feedbacks/comercial.png)
 
+![](/static/img_2024/terceira_ed/card_feedbacks/Kaleb.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/Hércules.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/adriano.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/Davy.png)
 
 ## Diretoria Adm-Fin - Diretor: Pedro Ximenes
 
@@ -150,7 +172,13 @@ Descobrimos uma forma para economizar com os impostos na empresa, vamos ver se v
 
 #### Feedbacks recebidos:
 
+![](/static/img_2024/terceira_ed/card_feedbacks/admfin.png)
 
+![](/static/img_2024/terceira_ed/card_feedbacks/pedro_ximenes.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/maria.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/Leonardo.png)
 
 ## Diretoria de Gestão de Pessoas - Diretor: Daniel José
 
@@ -164,7 +192,15 @@ Estamos estudando a implementação de membros binúcleo, ou seja, participantes
 
 #### Feedbacks recebidos:
 
+![](/static/img_2024/terceira_ed/card_feedbacks/Gestão_de_pessoas.png)
 
+![](/static/img_2024/terceira_ed/card_feedbacks/Daniel_José.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/rodrigo.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/pedro_menezes.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/weldo.png)
 
 ## Diretoria de Marketing - Diretor: Guilherme Sampaio
 
@@ -182,6 +218,11 @@ Recebi uma conquista "6 Watch Time" do instagram, que quer dizer que o reels do 
 
 #### Feedbacks recebidos:
 
+![](/static/img_2024/terceira_ed/card_feedbacks/Guilherme.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/Demétrius.png)
+
+![](/static/img_2024/terceira_ed/card_feedbacks/sarah.png)
 
 <style>
     
