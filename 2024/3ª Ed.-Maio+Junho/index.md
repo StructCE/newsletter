@@ -4,7 +4,7 @@ label: "3ª Ed. - Maio + Junho"
 
 ![](/static/img_2024/terceira_ed/images/capa_terceira.jpg)
 
-# 2ª Edição, Maio + Junho de 2024
+# 3ª Edição, Maio + Junho de 2024
 
 ## Atualizações gerais da Struct!
 
@@ -24,22 +24,28 @@ Ficamos sabendo que o Congresso da Sociedade Brasileira de Computação, que oco
 
 ### Roda de conversa - Gestão de Tempo
 
-O evento foi totalmente presencial: começamos com uma dinâmica pra fazer a galera perceber como cada um tem sua própria gestão de tempo: Cada um contando até 30 segundos de olhos fechados nas cadeiras para no fim levantar. O resultado mostrou que cada um levantou no seu ritmoComo primeira pauta, falamos sobre apps e ferramentas que podem ajudar a gnt a organizar nosso tempo melhor, alguns citados foram Millanote, Notion, Snippets para Next, Forest, Spirit City: Lofi Sessions entre outros.Posteriormente, tivemos um momento para falarmos das dificuldades. Foi um momento pros membros se abrirem para falar de onde surge mais dificuldades em gerir o tempo. O problema em comum mais citado foi a velha UnB, como de se esperar, mas fomos um pouco a fundo de como a variação na grade horária entre os semestres impactam nossa rotina.Com isso, fomos para as soluções: Conversamos sobre o que cada um faz pra gerenciar melhor o seu dia e demos um espaço para apresentar técnicas de gestão de tempo, ouvimos desde Pomodoro até pura pressão  .Por fim tivemos uma gamificacão surpresa apresentada pela GP como dever de casa: para as pessoas que compareceram, quem tiver o maior aumento de horas de Maio pra Junho no clockify vai ganhar 20% das horas feitas como pontos na corrida de foguetes :eyes:                                                                          
+O evento foi totalmente presencial: começamos com uma dinâmica pra fazer a galera perceber como cada um tem sua própria gestão de tempo: Cada um contando até 30 segundos de olhos fechados nas cadeiras para no fim levantar. O resultado mostrou que cada um levantou no seu ritmoComo primeira pauta, falamos sobre apps e ferramentas que podem ajudar a gnt a organizar nosso tempo melhor, alguns citados foram Millanote, Notion, Snippets para Next, Forest, Spirit City: Lofi Sessions entre outros.Posteriormente, tivemos um momento para falarmos das dificuldades. Foi um momento pros membros se abrirem para falar de onde surge mais dificuldades em gerir o tempo. O problema em comum mais citado foi a velha UnB, como de se esperar, mas fomos um pouco a fundo de como a variação na grade horária entre os semestres impactam nossa rotina.Com isso, fomos para as soluções: Conversamos sobre o que cada um faz pra gerenciar melhor o seu dia e demos um espaço para apresentar técnicas de gestão de tempo, ouvimos desde Pomodoro até pura pressão .Por fim tivemos uma gamificacão surpresa apresentada pela GP como dever de casa: para as pessoas que compareceram, quem tiver o maior aumento de horas de Maio pra Junho no clockify vai ganhar 20% das horas feitas como pontos na corrida de foguetes :eyes:  
 Depois de tudo, tivemos um lanchinho com coxinhas e bolinhas de queijo.
 
 ### Sábado Júnior
 
 O Sábado Júnior foi **SURREAL**!!! Tivemos a oportunidade de subir no **PALCO**, participar de Benchs Guiadas, discutir sobre as dificuldades enfrentadas pelas Empresas Júnior e assistir a uma variedade de palestras específicas para cada diretoria.
 
+:::img_90
 ![Todos os presentes no Sábado Júnior](/static/img_2024/terceira_ed/images/Todos_que_foram_no_Sabado_Junior.jpg)
+:::
 
+:::img_70
 ![](/static/img_2024/terceira_ed/images/Subimos_no_palco_Sabado_Junior.jpg)
+:::
 
+:::img_90
 ![Fotinha no BK (almocinho Sábado Júnior)](/static/img_2024/terceira_ed/images/Almoco_no_bk_Sabado_Junior_02.jpg)
+:::
 
+:::img_70
 ![Ps: Perdón Matheus](/static/img_2024/terceira_ed/images/Almoco_no_BK_Sabado_Junior.jpg)
-
-
+:::
 
 ### Feedbacks gerais:
 
@@ -48,7 +54,6 @@ O Sábado Júnior foi **SURREAL**!!! Tivemos a oportunidade de subir no **PALCO*
 ![](/static/img_2024/terceira_ed/card_feedbacks/csbc.png)
 
 ![](/static/img_2024/terceira_ed/card_feedbacks/dev_app.png)
-
 
 ### Atualizações de Projetos:
 
@@ -90,16 +95,18 @@ Ainda não, mas está próximo.
 
 #### O que a diretoria tenha feito?
 
-Aplicamos a ideia da RG Temática, a qual eu pessoalmente acho que foi uma ideia maravilhosa e que tem dado certo. 
+Aplicamos a ideia da RG Temática, a qual eu pessoalmente acho que foi uma ideia maravilhosa e que tem dado certo.
 Além disso, tivemos alguns eventos nos mês de Maio e Junho que foram a Roda de Conversa e o Sábado Júnior. Nesse sentido, sobre a Roda de Conversa, acho que deveríamos ter incetivado mais a galera a ir e deveríamos ter se organizado melhor, mas foi um momento bem legal e os slides da GP estavam um chuchu. Já sobre o Sábado Júnior, foi muitooooo incrível, subimos no palco, fomos reconhecidos pelos nossos esforços e nos sentimos **A MELHOR EJ DO MUNDO!!!!**
 Por fim, estamos conversando com a Praxis sobre a Análise de Desempenho, que eu acredito que será um projeto muito importante para a Struct no sentido de feedbacks e controle do funcionamento e do andamento das nossas divisões (diretorias, projetos, squads, etc etc). **Um spoilerzinho** é que provalvemente o projeto começará no dia 8 de Julho!!!
 
 #### Alguma novidade ou fato divertido?
 
-No almoço do Sábado Júnior, fomos comer no BK e colocamos **7 pessoas** dentro do meu carrito (o póbi do Gui teve de ir no porta-malas)...            
+No almoço do Sábado Júnior, fomos comer no BK e colocamos **7 pessoas** dentro do meu carrito (o póbi do Gui teve de ir no porta-malas)...  
 **OBS: Se o Detran ler esse texto, é tudo mentira!!!**
 
+:::img_70
 ![SIMPLESMENTE SETE PESSOAS EM UM CARRO **ps: Detran, é montagem**](/static/img_2024/terceira_ed/images/7_pessoas_em_1_carro_Sábado_Júnior.jpg)
+:::
 
 #### Feedbacks recebidos:
 
@@ -109,13 +116,13 @@ No almoço do Sábado Júnior, fomos comer no BK e colocamos **7 pessoas** dentr
 
 #### O que a diretoria tenha feito?
 
-Reuniões do Conselho da Concentro;                                  
-Check- in com nossa copilota (Duda);                                                                   
-Revisando planejamento estratégico                               
+Reuniões do Conselho da Concentro;  
+Check- in com nossa copilota (Duda);  
+Revisando planejamento estratégico
 
 #### Alguma novidade ou fato divertido?
 
-1º: Na nossa aula para o Trainee tivemos a participação do nosso Ex-presidente organizacional, Arthur de Sá! É bom que os trainees estejam um pouco mais a par da nossa história :)                                                                                 
+1º: Na nossa aula para o Trainee tivemos a participação do nosso Ex-presidente organizacional, Arthur de Sá! É bom que os trainees estejam um pouco mais a par da nossa história :)  
 2º : Tivemos mais uma troca de Copilota (membro da concentro que nos dá apoio), dessa vez é a Duda, que também é de Engenharia de Computação, e tem nos ajudado bastante recentemente :D
 
 ## Diretoria de Projetos - Diretor: Paulo
@@ -168,7 +175,7 @@ Organizamos selo EJ, questões do ENEJ, documentação da diretoria e administra
 
 #### Alguma novidade ou fato divertido?
 
-Descobrimos uma forma para economizar com os impostos na empresa, vamos ver se vai  dar certo :)
+Descobrimos uma forma para economizar com os impostos na empresa, vamos ver se vai dar certo :)
 
 #### Feedbacks recebidos:
 
@@ -183,11 +190,13 @@ Descobrimos uma forma para economizar com os impostos na empresa, vamos ver se v
 ## Diretoria de Gestão de Pessoas - Diretor: Daniel José
 
 #### O que a diretoria tenha feito?
+
 - Fizemos a Roda de Conversa de Gestão de Tempo;
 - Acompanhamento Struct Talks de Junho
 - Estudando maneiras de melhorar a nossa Gamificação
 
 #### Alguma novidade ou fato divertido?
+
 Estamos estudando a implementação de membros binúcleo, ou seja, participantes de 2 diretorias, mas percebemos que o Weldo já tinha virado um antes sequer de implementarmos, o cara é brabo.
 
 #### Feedbacks recebidos:
@@ -225,5 +234,13 @@ Recebi uma conquista "6 Watch Time" do instagram, que quer dizer que o reels do 
 ![](/static/img_2024/terceira_ed/card_feedbacks/sarah.png)
 
 <style>
-    
+.img_90{
+    width: 90%;
+    margin: auto;
+}
+
+.img_70{
+    width: 70%;
+    margin: auto;
+}
 </style>
