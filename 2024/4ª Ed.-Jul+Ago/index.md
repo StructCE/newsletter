@@ -165,7 +165,7 @@ Estamos indo pro ENEJ como EJ INOVADORA 🚀🚀
 Feliz com a chegada de novos membros :) 
 
 ### Feedbacks recebidos:
-
+![](/static/img_2024/quarta_ed/img_feedbacks/Gestão_de_pessoas.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Daniel_José.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Alex.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/moises.png)
@@ -214,6 +214,7 @@ A Struct bateu o dobro da meta do ano!🔥🔥🚀
 
 #### Feedbacks recebidos:
 
+![](/static/img_2024/quarta_ed/img_feedbacks/Comercial.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Kaleb_Henrique.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Adriano.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Hércules.png)
