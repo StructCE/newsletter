@@ -166,10 +166,13 @@ Feliz com a chegada de novos membros :)
 
 ### Feedbacks recebidos:
 ![](/static/img_2024/quarta_ed/img_feedbacks/Gestão_de_pessoas.png)
-![](/static/img_2024/quarta_ed/img_feedbacks/Daniel_José.png)
+![](/static/img_2024/quarta_ed/img_feedbacks/Daniel_José.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Alex.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/moises.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/weldo.png)
+![](/static/img_2024/quarta_ed/img_feedbacks/Anna_Luiza.png)
+![](/static/img_2024/quarta_ed/img_feedbacks/João.png)
+![](/static/img_2024/quarta_ed/img_feedbacks/Pedro_Menezes.png)
 
 ## Diretoria de Marketing - Diretor: Guilherme
 
@@ -200,7 +203,7 @@ Instagram da Struct bate 1000 seguidores 😮 e o reels que viralizou com 130.00
 ![](/static/img_2024/quarta_ed/img_feedbacks/henrique.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Luis_antonio.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/nicole.png)
-![](/static/img_2024/quarta_ed/img_feedbacks/Demétrius.png)
+![](/static/img_2024/quarta_ed/img_feedbacks/Demétrius.png)
 
 ## Diretoria de Comercial - Diretor: Kaleb Henrique
 
@@ -217,8 +220,10 @@ A Struct bateu o dobro da meta do ano!🔥🔥🚀
 ![](/static/img_2024/quarta_ed/img_feedbacks/Comercial.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Kaleb_Henrique.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Adriano.png)
-![](/static/img_2024/quarta_ed/img_feedbacks/Hércules.png)
+![](/static/img_2024/quarta_ed/img_feedbacks/Hércules.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Mauro.png)
+![](/static/img_2024/quarta_ed/img_feedbacks/Leonardo_Sampaio.png)
+![](/static/img_2024/quarta_ed/img_feedbacks/Matheus_de_Souza.png)
 
 ## Diretoria Adm-Fin - Diretor: Pedro Ximenes
 
@@ -251,10 +256,9 @@ Pedro corrigiu pr para colocar em produção que não tava rodando nem em dev �
 ![](/static/img_2024/quarta_ed/img_feedbacks/Pedro_de_Paula.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/will.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Matheus_Das_Neves.png)
-![](/static/img_2024/quarta_ed/img_feedbacks/will.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Luigi.png)
 ![](/static/img_2024/quarta_ed/img_feedbacks/Pedro_Amorim.png)
-![](/static/img_2024/quarta_ed/img_feedbacks/will.png)
+![](/static/img_2024/quarta_ed/img_feedbacks/Paulo.png)
 
 
 >
