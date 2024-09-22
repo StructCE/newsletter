@@ -27,6 +27,8 @@ Mais não é só isso! Na seção das diretorias você poderá ver mais atuaçõ
 
 No dia 2 desse mês nosso querido ex-membro Bernardo Lobo, nos enviou elogios de como estamos seguindo o caminho, ao final da RG.
 
+[!embed text="Bernardo manda elogios para a direx e a empresa"](https://youtu.be/JoaQ6tvJukE)
+
 <br>
 
 ### Atualizações de Projetos:
