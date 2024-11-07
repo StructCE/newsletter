@@ -1,7 +1,7 @@
 ---
 label: "5ª Ed. - Setembro + Outubro"
 ---
-
+![](/static\img_2024\quinta_ed\capa_nl.jpg)
 
 # 5ª Edição, Setembro + Outubro de 2024
 
@@ -68,42 +68,77 @@ label: "5ª Ed. - Setembro + Outubro"
 
 #### O que a diretoria tem feito?
 
+Esse último mês tivemos um foco na imersão, visando engajar os membros recém efetivados, apesar de haver um quórum abaixo do esperado devido a atrasos e mudanças de local, fizemos um evento mt bacana, onde os membros que estiveram se sentiram mais reinvigorados com a empresa.
+
+Fora isso acabou recentemente o período de Struct Talks, e com isso podemos ver que uma boa parte da empresa voltou a se engajar melhor com a volta das aulas, com a galera se falando na sede e tendo mais oportunidades de contato.
+
 #### Alguma novidade ou fato divertido?
 
+Cara bizarríssimo o fato de termos 3 candidatos para o cargo de Diretor de GP, vindo de uma diretoria que estava com vacância do cargo ano passado, estou muitíssimo orgulhoso de todos nessa diretoria s2
+
+Começamos o PS! Tivemos 24 inscritos (26 inscrições com 2 repetidas na vdd kkk) 4 delas são mulheres, o que é condizente com a porcentagem de membros no curso, mas ainda sim é um avanço na nossa busca por maior diversidade🚀
+Estamos no processo de documentar estatísticas de características de membros comparando com semestres antigos também.
+
 ### Feedbacks recebidos:
+
+![](/static\img_2024\quinta_ed/feedbacks/Gestão_de_pessoas.png)
 
 ## Diretoria de Marketing - Diretor: Guilherme
 
 #### O que a diretoria tem feito?
 
+Trabalhamos no processo seletivo com postagens. Finalmente depois da conta ser.struct ser banida criamos e configuramos outro perfil, inclusive já desenvolvemos um reels lá que teve bastante engajamento e ainda em relação ao 2º perfil já temos um planejamento de postagens pronto.
+Também organizamos e tiramos as fotos corporativas da gelera da Struct, com certeza foi a maior organização e seção de fotos de já houve na historia da Struct, porque foram muitos membros para tirar essas fotos, periodo de chuva e etc, ao todo foram 2 semanas de foto
+E desenvolvemos essa inscrivel Newsletter.
+
 #### Alguma novidade ou fato divertido?
 
+Não 
+
 #### Feedbacks recebidos:
+
+![](/static/img_2024/quinta_ed/feedbacks/Marketing.png)
 
 ## Diretoria de Comercial - Diretor: Kaleb Henrique
 
 #### O que a diretoria tem feito?
 
+Temos um novo Diretor de Comercial eleito, e todos estamos com grandes expectativas para essa gestão. Desde que entrou na empresa, ele tem demonstrado uma postura proativa e uma vontade constante de aprender. Agora, estamos iniciando uma fase de cogestão e esperamos transmitir a ele toda a experiência acumulada.
+No momento, as atividades de Comercial estão um pouco paradas devido à baixa quantidade de leads. No entanto, nossos clientes ativos estão solicitando termos aditivos para prolongar os projetos, ampliando também a capacitação dos membros da equipe e gerando retorno financeiro contínuo.
+
 #### Alguma novidade ou fato divertido?
 
+Vamos subir no palco da Concentra, mais um prêmio do nosso desempenho no ano.
 
-#### Feedbacks recebidos:
+<!--#### Feedbacks recebidos: Nenhum-->
 
 ## Diretoria Adm-Fin - Diretor: Pedro Ximenes
 
 #### O que a diretoria tem feito?
 
+Organização de nota fiscal
+Pesquisa de isenção de imposto
+Inicio da automação de geração dos indicadores
+
 #### Alguma novidade ou fato divertido?
 
-#### Feedbacks recebidos:
+Não
+
+<!--#### Feedbacks recebidos: Nenhum-->
 
 ## Diretoria de Projetos - Diretor: Matheus
 
 #### O que a diretoria tem feito?
 
+Começando a primeira capacitação de gerência, acompanhando todos os projetos e fazendo algumas documentações da diretoria
+
 #### Alguma novidade ou fato divertido?
 
+No
+
 #### Feedbacks recebidos:
+
+![](/static/img_2024/quinta_ed/feedbacks/Projetos.png)
 
 >
 
@@ -115,40 +150,39 @@ label: "5ª Ed. - Setembro + Outubro"
 
 #### O que tem acontecido no Squad?
 
+Concluímos os projetos e iniciaríamos a documentação 
 
 #### Quais serão as próximas atividades do Squad?
 
-
-#### Tem algum projeto acontecendo que envolve o squad? Se sim qual? 
+Aguardar novos projetos 
 
 ## Squad de Desenvolvimento de Aplicativos - Gerente: Pedro Amorim
 
 #### O que tem acontecido no Squad?
 
+Os membros estão em projetos, então não foi possível continuar o desenvolvimento das pesquisas do squad, mas o projeto do Finatec está indo para frente.
 
 #### Quais serão as próximas atividades do Squad?
 
+Terminar de desenvolver o projeto Finatec
 
 #### Tem algum projeto acontecendo que envolve o squad? Se sim qual?
+
+Sim, Finatec
 
 ## Squad de Projetos Interno - Gerente: Kaleb Henrique
 
 #### O que tem acontecido no Squad?
 
+No momento estamos fazendo um template de site institucional.
 
 #### Quais serão as próximas atividades do Squad?
 
-#### Tem algum projeto acontecendo que envolve o squad? Se sim qual?
-
-## Squad de AutoBots: Hércules
-
-#### O que tem acontecido no Squad?
-
-#### Quais serão as próximas atividades do Squad?
+Tentar finalizar esse template até o final do ano.
 
 #### Tem algum projeto acontecendo que envolve o squad? Se sim qual?
 
-### Feedbacks:
+Não.
 
 <br>
 <br>
