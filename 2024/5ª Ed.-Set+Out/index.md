@@ -60,6 +60,7 @@ E já temos o grande gerente do trainee, o Alex 👏👏👏
 
 ### Feedbacks gerais:
 
+![](/static/img_2024/quinta_ed/feedbacks/Geral.png)
 >
 
 ### Atualizações de Projetos:
