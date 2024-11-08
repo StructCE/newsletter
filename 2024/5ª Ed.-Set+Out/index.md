@@ -64,43 +64,62 @@ E já temos o grande gerente do trainee, o Alex 👏👏👏
 
 ### Atualizações de Projetos:
 
-#### 1. CSBC - Gerente Matheus das Neves:
+#### 1. Projeto VK Construction - Gerente Maria Araújo:
 
 ##### O que tem acontecido no projeto?
 
+Ainda estamos fazendo o figma, tivemos apenas uma reunião com os devs para as explicar o projeto.
+
 ##### O projeto já encerrou? Se sim, como foi o encerramento?
 
-#### 2. Projeto Struct Lab - Gerente Kaleb Henrique:
+Não, ainda estamos no início.
+
+#### 2. Projeto Strategis - Gerente Leonardo Cortes:
 
 ##### O que tem acontecido no Projeto?
 
+Apresentamos o projeto para o cliente mas ele pediu diversas alterações.
+
 ##### O projeto já encerrou? Se sim, como foi o encerramento?
 
-#### 3. Projeto EcoFlower - Gerente Daniel:
+Não, o cliente está solicitando mudanças tanto no front quanto no back-end. Mesmo com o prazo já encerrado o projeto ainda está em desenvolvimento.
+
+#### 3. Projeto EcoFlower - Gerente Daniel José:
 
 ##### O que tem acontecido no Projeto?
 
+Teve alguns atrasos no final por complicações de merge(partes funcionando individualmente mas conflitando com outras branches) e outros imprevistos,
+Mas a nossa cliente (Lúcia) é bem prestativa, e pode compreender por ser presidente de EJ
+
 ##### O projeto já encerrou? Se sim, como foi o encerramento?
 
-#### 4. Projeto Gestore - Gerente Jéssica:
+Estamos finalizando, a reunião de entrega deve ocorrer nessa semana. Foi difícil de marcar reuniões por conta de compromissos dos dois lados mas estamos mantendo a comunicação transparente
+
+#### 4. Projeto Finatec - Gerente Pedro Amorim:
 
 ##### O que tem acontecido no Projeto?
 
+Estamos desenvolvendo a coleta de dados do sistema de estudo do usuário e o display do processamento desses dados.
+
 ##### O projeto já encerrou? Se sim, como foi o encerramento?
 
-#### 5. Projeto Winx 2.0 - Gerente Pedro Ximenes:
+Não.
+
+#### 5. Projeto Cerrado - Gerente Vinicius:
 
 ##### O que tem acontecido no Projeto?
 
-##### O projeto já encerrou? Se sim, como foi o encerramento?
-
-#### 6. Projeto Strategis - Gerente Leonardo:
-
-##### O que tem acontecido no Projeto?
+Tivemos alguns imprevistos que impossibilitaram as reuniões desde antes do início das aulas, e após ela, ainda estamos vendo qual seria o melhor dia para as reuniões semanais, além disso também estamos com um pouco de dificuldade para configurar o projeto, e isso tem atrasado muito.
 
 ##### O projeto já encerrou? Se sim, como foi o encerramento?
+
+Não
 
 ### Feedbacks recebidos:
+
+![](/static/img_2024/quinta_ed/feedbacks/Gestore.png)
+![](/static/img_2024/quinta_ed/feedbacks/VK_Contrucions.png)
+![](/static/img_2024/quinta_ed/feedbacks/EcoFlor.png)
 
 >
 
@@ -113,7 +132,7 @@ E já temos o grande gerente do trainee, o Alex 👏👏👏
 #### Alguma novidade ou fato divertido?
 
 #### Feedbacks recebidos:
-
+![](/static/img_2024/quinta_ed/feedbacks/Jéssica.png)
 ## Gestão de Pessoas - Diretor: Daniel José
 
 #### O que a diretoria tem feito?
@@ -132,6 +151,12 @@ Estamos no processo de documentar estatísticas de características de membros c
 ### Feedbacks recebidos:
 
 ![](/static\img_2024\quinta_ed/feedbacks/Gestão_de_pessoas.png)
+![](/static/img_2024/quinta_ed/feedbacks/Daniel_José.png)
+![](/static/img_2024/quinta_ed/feedbacks/Alex.png)
+![](/static/img_2024/quinta_ed/feedbacks/weldo.png)
+![](/static/img_2024/quinta_ed/feedbacks/Anna_Luiza.png)
+![](/static/img_2024/quinta_ed/feedbacks/João.png)
+![](/static/img_2024/quinta_ed/feedbacks/Pedro_Menezes.png)
 
 ## Diretoria de Marketing - Diretor: Guilherme
 
@@ -148,6 +173,10 @@ Não
 #### Feedbacks recebidos:
 
 ![](/static/img_2024/quinta_ed/feedbacks/Marketing.png)
+![](/static/img_2024/quinta_ed/feedbacks/Guilherme.png)
+![](/static/img_2024/quinta_ed/feedbacks/nicole.png)
+![](/static/img_2024/quinta_ed/feedbacks/Demétrius.png)
+![](/static/img_2024/quinta_ed/feedbacks/Sarah.png)
 
 ## Diretoria de Comercial - Diretor: Kaleb Henrique
 
@@ -160,7 +189,11 @@ No momento, as atividades de Comercial estão um pouco paradas devido à baixa q
 
 Vamos subir no palco da Concentra, mais um prêmio do nosso desempenho no ano.
 
-<!--#### Feedbacks recebidos: Nenhum-->
+#### Feedbacks recebidos: 
+![](/static/img_2024/quinta_ed/feedbacks/Kaleb_Henrique.png)
+![](/static/img_2024/quinta_ed/feedbacks/Adriano.png)
+![](/static/img_2024/quinta_ed/feedbacks/Leonardo_Sampaio.png)
+![](/static/img_2024/quinta_ed/feedbacks/Matheus_de_Souza.png)
 
 ## Diretoria Adm-Fin - Diretor: Pedro Ximenes
 
@@ -174,7 +207,9 @@ Inicio da automação de geração dos indicadores
 
 Não
 
-<!--#### Feedbacks recebidos: Nenhum-->
+#### Feedbacks recebidos:
+![](/static/img_2024/quinta_ed/feedbacks/Leonardo_Pereira.png)
+![](/static/img_2024/quinta_ed/feedbacks/Maria_Eduarda.png)
 
 ## Diretoria de Projetos - Diretor: Matheus
 
@@ -189,6 +224,11 @@ No
 #### Feedbacks recebidos:
 
 ![](/static/img_2024/quinta_ed/feedbacks/Projetos.png)
+![](/static/img_2024/quinta_ed/feedbacks/Pedro_de_Paula.png)
+![](/static/img_2024/quinta_ed/feedbacks/Matheus_Das_Neves.png)
+![](/static/img_2024/quinta_ed/feedbacks/Pedro_Amorim.png)
+![](/static/img_2024/quinta_ed/feedbacks/Victor_Henrique_Silva.png)
+![](/static/img_2024/quinta_ed/feedbacks/Gabriel_Ribeiro.png)
 
 >
 
@@ -231,6 +271,11 @@ Tentar finalizar esse template até o final do ano.
 #### Tem algum projeto acontecendo que envolve o squad? Se sim qual?
 
 Não.
+
+#### Feedbacks recebidos:
+![](/static/img_2024/quinta_ed/feedbacks/Squads.png)
+![](/static/img_2024/quinta_ed/feedbacks/CMS.png)
+![](/static/img_2024/quinta_ed/feedbacks/Autobots.png)
 
 <br>
 <br>
