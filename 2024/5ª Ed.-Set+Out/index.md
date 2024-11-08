@@ -1,15 +1,65 @@
 ---
 label: "5ª Ed. - Setembro + Outubro"
 ---
-![](/static\img_2024\quinta_ed\capa_nl.jpg)
+
+![](/static/img_2024/quinta_ed/images/capa_5.jpg)
 
 # 5ª Edição, Setembro + Outubro de 2024
 
 ## Atualizações gerais da Struct!
 
-### Os efetivados de 2024.2
+### O Grande ENEJ
+
+O ENEJ, famigerado Encontro Nacional de Empresas Juniores, aconteceu nos dias 29/08 a 01/09 e só resta saudades, mas todos os aprendizados, ideias e aperfeiçoamentos ficam com a gente.
+
+:::geral_enej
+![](/static/img_2024/quinta_ed/images/geral_enej.jpg)
+:::
+
+:::texto_personalizado
+Eu seiiiii que vocês estavam doidinhosssss para ver assuntos do ENEJ, então lá vemmmmmmmmmm</p>
+:::
+
+<video class="video" width="320" height="240" controls>
+  <source src="/static/img_2024/quinta_ed/images/Gigantes_da_destruicao.mp4" type="video/mp4">
+  Seu navegador não tem suporte para este vídeo.
+</video>
+
+:::coding
+![Galera mt trabalhadora](/static/img_2024/quinta_ed/images/devs.jpg)
+:::
+
+:::sarah_zzz
+![zzzzzzzzzz](/static/img_2024/quinta_ed/images/Sarah_zzzz.jpg)
+:::
+
+:::festa
+![Todo mundo sóbrio! Ou será que não?](/static/img_2024/quinta_ed/images/festa.jpg)
+:::
+
+### Início do Processo Seletivo e encaminhamento para o Processo Trainee
+
+Processo Seletivo foi aberto 09 de Outubro e fechado dia 25, você pode ver os detalhes da quantidade de pessoas na seção de Gestão De Pessoas.
+E já temos o grande gerente do trainee, o Alex 👏👏👏
+
+### Imersão 2.0
+
+19 de Outubro aconteceu uma nova edição da imerção, Moises disponibilizou um ótimo espaço na casa dele, uma jogatina com todos envolvidos, após isso Bernardo deu inicio a sua apresentação sobre um pouco da história da Struct, Jéssica e Dan proseguiram com detalhes sobre o ENEJ e o que podemos trazer do ENEJ para Struct.
+
+:::imersao_img_01
+![Bernardo, pós Júnior, apresenta Sobre a Struct](/static/img_2024/quinta_ed/images/bernas_imersao.jpg)
+:::
+
+:::imersao_img_02
+![Assuntos importantes](/static/img_2024/quinta_ed/images/dan_imersao.jpg)
+:::
+
+:::dan_escrevendo
+![Registrando ideias duarante a imersão](/static/img_2024/quinta_ed/images/dan_escrevendo.jpg)
+:::
 
 ### Feedbacks gerais:
+
 >
 
 ### Atualizações de Projetos:
@@ -32,7 +82,6 @@ label: "5ª Ed. - Setembro + Outubro"
 
 ##### O projeto já encerrou? Se sim, como foi o encerramento?
 
-
 #### 4. Projeto Gestore - Gerente Jéssica:
 
 ##### O que tem acontecido no Projeto?
@@ -54,6 +103,7 @@ label: "5ª Ed. - Setembro + Outubro"
 ### Feedbacks recebidos:
 
 >
+
 # Diretorias
 
 ## Presidência: Jéssica Leal
@@ -93,7 +143,7 @@ E desenvolvemos essa inscrivel Newsletter.
 
 #### Alguma novidade ou fato divertido?
 
-Não 
+Não
 
 #### Feedbacks recebidos:
 
@@ -144,17 +194,15 @@ No
 
 # Squads
 
-
-
 ## Squad de Design - Gerente: Nicole
 
 #### O que tem acontecido no Squad?
 
-Concluímos os projetos e iniciaríamos a documentação 
+Concluímos os projetos e iniciaríamos a documentação
 
 #### Quais serão as próximas atividades do Squad?
 
-Aguardar novos projetos 
+Aguardar novos projetos
 
 ## Squad de Desenvolvimento de Aplicativos - Gerente: Pedro Amorim
 
@@ -190,6 +238,7 @@ Não.
 # Espaço de convivência
 
 ## Katawa Shoujo - Rota Hanako
+
 <br>
 
 Estou de volta, sentiram saudades? Acho que a maioria nem me conhece, já foram umas três gerações desde que saí da Struct. Mas bem, vou para mais algumas coisinhas antes de falar sobre o assunto principal do texto. Eu adoro falar sobre coisas que amo (e quem não gosta), mas, às vezes, acabo me aprofundando demais nos assuntos, deixando minha cabeça maluquinha, sem conseguir pensar em outra coisa. É como o que acontece com uma música: ouço e fico preso nela, ouvindo repetidamente por vários dias seguidos.
@@ -198,9 +247,7 @@ Voltando ao tema do texto… Eu poderia falar sobre várias coisas. Aqui no espa
 
 Eu poderia escrever sobre o que vem me atormentando desde que comecei a assistir animes lá em 2017 e que, neste ano, me fez cair num buraco de coelho envolvendo essa história? Poderia, mas acredito que ficaria um pouco pesado e estranho, especialmente por se tratar de visual novels adultas e muita coisa errada (obrigado, 0verflow, por criar esse universo). Poderia, nessa mesma vertente, falar sobre as músicas desses e de outros eroges que são incrivelmente boas? Poderia, mas acho que só não vale a pena. Então, vou falar sobre uma visual novel. No caso, a rota que escolhi dessa visual novel, que já foi revelada pelo título deste texto kkkkkkkk.
 
-
 ![](/static/img_2024/quinta_ed/espaço_de_convivencia_img/images/image5.jpg)
-
 
 Katawa Shoujo é uma visual novel de romance em que você está no papel de Hisao Nakai, um estudante que recebe uma confissão de sua amiga, Iwanako. Porém, nessa confissão, seu coração começa a falhar, e ele cai no chão. Seu próximo momento é no hospital. O diagnóstico: arritmia cardíaca e deficiência congênita do músculo cardíaco. Hisao fica quatro meses no hospital, se recuperando e lendo muito. As visitas de seus amigos e colegas de sala vão diminuindo. A última a parar de visitá-lo é Iwanako. Agora, o médico recomenda que Hisao se mude de escola, para que ele passe a frequentar a Yamaku, uma escola especial, com uma atenção especial aos alunos, em sua maioria deficientes, com enfermeiros 24 horas e um hospital integrado para que possam ser atendidos.
 
@@ -218,6 +265,7 @@ Vamos ao segundo ato, agora com a rota já encaminhada para Hanako. Começamos c
 ![](/static/img_2024/quinta_ed/espaço_de_convivencia_img/images/image4.png)
 
 ## Ato 3
+
 <br>
 Hora do ato 3. Lilly avisa Hisao sobre o aniversário de Hanako, o qual está próximo. Eles combinam de ir até a cidade para comprar um presente para ela. Porém, essa escapada da escola não passa despercebida por Shizune, Misha e Hanako, que no dia seguinte perguntam o que ele tinha ido fazer no domingo. Misha força a resposta de Hisao, e Hanako acaba tendo um ataque de pânico na sala de aula, com o gatilho sendo a informação do seu próprio aniversário. Foi uma cena terrível. Parecia que toda vez que Hisao tentava se aproximar de Hanako, eles ficavam mais separados.
 
@@ -227,12 +275,10 @@ Essa é uma parte que pegou um pouco no meu pessoal. Eu também sou um pouco com
 
 Na última noite de Lilly em Yamaku antes de viajar para a Escócia, Hanako, Hisao, Akira e Lilly vão a um bar de jazz na cidade. Lá, para ficar longe das pessoas, Hanako e Hisao jogam bilhar (ou sinuca, ou qualquer coisa que queiram chamar). Nesse momento, Hanako conta a Hisao um pouco sobre sua vida no orfanato, com Hisao contando o motivo da descoberta de sua arritmia: a confissão de Iwanako. Agora Lilly vai embora, será que Hanako vai ficar bem?
 
-
-
 ![](/static/img_2024/quinta_ed/espaço_de_convivencia_img/images/image1.png)
 
-
 ## Ato 4
+
 <br>
 
 Ato 4: Hanako não vai à aula. Hisao começa a se preocupar, já que está perto do aniversário dela e ele não sabe o que fazer. Ele gostaria que ela não ficasse apenas trancada em seu quarto. Mas não teve jeito. Hisao liga para Lilly pedindo conselhos sobre como ajudar Hanako, mas ela diz que ele deveria parar de se preocupar com Hanako e se preocupar mais com ele. Hanako volta a frequentar as aulas, mas Hisao ainda fica um pouco pensativo sobre o que Lilly falou. E isso faz com que ele mostre a cicatriz que ele tem no peito para Hanako, se abrindo com suas preocupações.
@@ -241,19 +287,11 @@ Em outro dia, Hanako convida Hisao a um café na cidade, não naquela perto da e
 
 Agora, Hanako sente que deveria dar algo em troca a Hisao, uma parte de sua história. No caminho da biblioteca até onde quer que Hisao pensasse que estavam indo, Hanako leva ele até seu quarto. Lá, ela mostra seu corpo, o seu lado direito todo com marcas das queimaduras da infância. Ela conta que só ficou assim por ter ficado em um canto, com sua mãe a protegendo. Com isso, eles acabam dormindo juntos no quarto de Hanako. Isso teve um peso enorme na relação deles. Parece que esse momento serviu apenas para afastar mais os dois, mesmo que parecessem estar mais próximos.
 
-
-
-
 ![](/static/img_2024/quinta_ed/espaço_de_convivencia_img/images/image2.png)
-
 
 Em uma conversa no parque para resolver as coisas que os dois estavam passando, Hanako conta sobre sua insegurança, seu ódio às pessoas, sua falta de amigos e, principalmente, sobre Lilly e Hisao tratarem-na como alguém a ser protegida. Mas isso não é o que Hisao quer; ele não quer apenas protegê-la. Ele a ama, confessando-se a ela, dando um ponto final à história e deixando para trás as crianças inseguras de seus problemas.
 
-
-
-
 ![](/static/img_2024/quinta_ed/espaço_de_convivencia_img/images/image3.png)
-
 
 ## Considerações finais
 
@@ -270,3 +308,38 @@ Obs.: Meu ranking de garotas após ver só a rota da Hanako (sem contar as secun
 <br> 4º - Shizune;
 <br> 5º - Misha (nem é personagem com uma rota específica);
 <br> 6º - Rin.
+
+<style>
+    .texto_personalizado {
+        text-align: center;
+        color: #1956AF;
+        border-radius: 10px;
+        background-color: #E1EDFF;
+        border: 1px solid #1956AF;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+    .geral_enej {
+        width: 80%
+    }
+
+    .festa {
+        width: 85%
+    }
+
+    .coding {
+        width: 300px;
+    }
+
+    .sarah_zzz {
+        width: 350px
+    }
+
+    .imersao_img_01, .imersao_img_02 {
+        width: 85%
+    }
+
+    .dan_escrevendo {
+        width: 350px
+    }
+</style>
