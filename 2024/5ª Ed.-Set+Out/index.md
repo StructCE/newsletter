@@ -155,7 +155,7 @@ Estamos no processo de documentar estatísticas de características de membros c
 ### Feedbacks recebidos:
 
 ![](/static/img_2024/quinta_ed/cards_feedbacks/Gestão_de_pessoas.png)
-![](/static/img_2024/quinta_ed/cards_feedbacks/Daniel_José.pngg)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Daniel_José.png)
 ![](/static/img_2024/quinta_ed/cards_feedbacks/Alex.png)
 ![](/static/img_2024/quinta_ed/cards_feedbacks/weldo.png)
 ![](/static/img_2024/quinta_ed/cards_feedbacks/Anna_Luiza.png)
@@ -297,7 +297,7 @@ Estou de volta, sentiram saudades? Acho que a maioria nem me conhece, já foram 
 
 Voltando ao tema do texto… Eu poderia falar sobre várias coisas. Aqui no espaço de convivência já teve futebol, já teve anime, duas vezes (espero que não tenham tido pesadelos com as 50 e tantas páginas que escrevi anteriormente), teve até outro texto falando em um geral sobre coisas que eu gostava, como jogos, músicas e animes. Agora está na hora de mudar?
 
-Eu poderia escrever sobre o que vem me atormentando desde que comecei a assistir animes lá em 2017 e que, neste ano, me fez cair num buraco de coelho envolvendo essa história? Poderia, mas acredito que ficaria um pouco pesado e estranho, especialmente por se tratar de visual novels adultas e muita coisa errada (obrigado, 0verflow, por criar esse universo). Poderia, nessa mesma vertente, falar sobre as músicas desses e de outros eroges que são incrivelmente boas? Poderia, mas acho que só não vale a pena. Então, vou falar sobre uma visual novel. No caso, a rota que escolhi dessa visual novel, que já foi revelada pelo título deste texto kkkkkkkk.
+Eu poderia escrever sobre o que vem me atormentando desde que comecei a assistir animes lá em 2017 e que, neste ano, me fez cair num buraco de coelho envolvendo essa história? Poderia, mas acredito que ficaria um pouco pesado e estranho, especialmente por se tratar de visual novels adultas e muita coisa errada (obrigado, 0verflow, por criar esse universo). Poderia, nessa mesma vertente, falar sobre as <a href="https://www.youtube.com/playlist?list=PLlLInWeFKsH2eb26v4QQSc0F49ERO-j3W" target="_blank">músicas</a> desses e de <a href="https://www.youtube.com/playlist?list=PLlLInWeFKsH1LSh6Dmz64LFfbKtKmBads" target="_blank">outros</a> eroges que são incrivelmente boas? Poderia, mas acho que só não vale a pena. Então, vou falar sobre uma visual novel. No caso, a rota que escolhi dessa visual novel, que já foi revelada pelo título deste texto kkkkkkkk.
 
 ![](/static/img_2024/quinta_ed/espaço_de_convivencia_img/images/image5.jpg)
 
@@ -349,7 +349,8 @@ Em uma conversa no parque para resolver as coisas que os dois estavam passando, 
 
 <br>
 
-Esse é o final bom da rota da Hanako. Agora, é hora de eu rejogar para tentar um final bom para Lilly, minha segunda escolha como personagens a se ficar de olho. Talvez eu tenha esquecido de algumas coisas, talvez eu não tenha conseguido passar as emoções que senti enquanto jogava, mas, do mesmo jeito, é um romance muito bonito entre um cara que acabou de descobrir sua deficiência física e garotas que estudam em Yamaku. Katawa Shoujo está gratuito na [Steam](https://store.steampowered.com/app/3068300/Katawa_Shoujo/), com um patch +18 na JAST, ou então você só pega o jogo completo sem censura na JAST e boa. Espero que tenham gostado da rota que eu joguei e, caso acabem jogando também, gostem dessa do mesmo jeito que eu ou das outras como quiserem. Obrigado pela oportunidade de voltar a esse espaço compartilhado. Acredito que esse finalmente seja meu adeus, mas quem sabe um dia eu volte com vídeos [(se inscreve no canal)](https://www.youtube.com/@iiiqwertyiiigd) sobre assuntos que eu falei no começo do texto? Nah, falar sobre eroge é muito cringe, imagina colocar isso em uma newsletter da Struct. Valeu, falou e fui!
+Esse é o final bom da rota da Hanako. Agora, é hora de eu rejogar para tentar um final bom para Lilly, minha segunda escolha como personagens a se ficar de olho. Talvez eu tenha esquecido de algumas coisas, talvez eu não tenha conseguido passar as emoções que senti enquanto jogava, mas, do mesmo jeito, é um romance muito bonito entre um cara que acabou de descobrir sua deficiência física e garotas que estudam em Yamaku. Katawa Shoujo está gratuito na <a href="https://store.steampowered.com/app/3068300/Katawa_Shoujo/" target="_blank">Steam</a>, com um patch +18 na JAST, ou então você só pega o jogo completo sem censura na JAST e boa. Espero que tenham gostado da rota que eu joguei e, caso acabem jogando também, gostem dessa do mesmo jeito que eu ou das outras como quiserem. Obrigado pela oportunidade de voltar a esse espaço compartilhado. Acredito que esse finalmente seja meu adeus, mas quem sabe um dia eu volte com vídeos <a href="https://www.youtube.com/@iiiqwertyiiigd" target="_blank">se inscreve no canal</a>
+sobre assuntos que eu falei no começo do texto? Nah, falar sobre eroge é muito cringe, imagina colocar isso em uma newsletter da Struct. Valeu, falou e fui!
 
 Obs.: Meu ranking de garotas após ver só a rota da Hanako (sem contar as secundárias):
 <br> 1º - Hanako;
@@ -359,7 +360,7 @@ Obs.: Meu ranking de garotas após ver só a rota da Hanako (sem contar as secun
 <br> 5º - Misha (nem é personagem com uma rota específica);
 <br> 6º - Rin.
 
-Opa, um extra, a [trilha sonora](https://music.youtube.com/playlist?list=PLaYUyMiOjzY3nD3yDgjrf8ohpRgSV3aDp) do jogo (não vou deixar vcs sem isso).
+Opa, um extra, a <a href="https://music.youtube.com/playlist?list=PLaYUyMiOjzY3nD3yDgjrf8ohpRgSV3aDp" target="_blank">trilha sonora</a> do jogo (não vou deixar vcs sem isso).
 
 <style>
     .texto_personalizado {
