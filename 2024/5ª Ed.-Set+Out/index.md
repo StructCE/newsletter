@@ -20,10 +20,7 @@ O ENEJ, famigerado Encontro Nacional de Empresas Juniores, aconteceu nos dias 29
 Eu seiiiii que vocês estavam doidinhosssss para ver assuntos do ENEJ, então lá vemmmmmmmmmm</p>
 :::
 
-<video class="video" width="320" height="240" controls>
-  <source src="/static/img_2024/quinta_ed/images/Gigantes_da_destruicao.mp4" type="video/mp4">
-  Seu navegador não tem suporte para este vídeo.
-</video>
+[!embed text="O vídeo é não listado, então relaxem kkkkk"](https://www.youtube.com/watch?v=xflIOKzTWzE)
 
 :::coding
 ![Galera mt trabalhadora](/static/img_2024/quinta_ed/images/devs.jpg)
@@ -401,9 +398,5 @@ Opa, um extra, a <a href="https://music.youtube.com/playlist?list=PLaYUyMiOjzY3n
 
     .dan_escrevendo {
         width: 350px
-    }
-
-    video {
-        margin: auto
     }
 </style>
