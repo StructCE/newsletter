@@ -60,7 +60,8 @@ E já temos o grande gerente do trainee, o Alex 👏👏👏
 
 ### Feedbacks gerais:
 
-![](/static/img_2024/quinta_ed/feedbacks/Geral.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Geral.png)
+
 >
 
 ### Atualizações de Projetos:
@@ -118,9 +119,9 @@ Não
 
 ### Feedbacks recebidos:
 
-![](/static/img_2024/quinta_ed/feedbacks/Gestore.png)
-![](/static/img_2024/quinta_ed/feedbacks/VK_Contrucions.png)
-![](/static/img_2024/quinta_ed/feedbacks/EcoFlor.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Gestore.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/VK_Contrucions.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/EcoFlor.png)
 
 >
 
@@ -133,7 +134,9 @@ Não
 #### Alguma novidade ou fato divertido?
 
 #### Feedbacks recebidos:
-![](/static/img_2024/quinta_ed/feedbacks/Jéssica.png)
+
+![](/static/img_2024/quinta_ed/cards_feedbacks/Jéssica.png)
+
 ## Gestão de Pessoas - Diretor: Daniel José
 
 #### O que a diretoria tem feito?
@@ -151,13 +154,13 @@ Estamos no processo de documentar estatísticas de características de membros c
 
 ### Feedbacks recebidos:
 
-![](/static\img_2024\quinta_ed/feedbacks/Gestão_de_pessoas.png)
-![](/static/img_2024/quinta_ed/feedbacks/Daniel_José.png)
-![](/static/img_2024/quinta_ed/feedbacks/Alex.png)
-![](/static/img_2024/quinta_ed/feedbacks/weldo.png)
-![](/static/img_2024/quinta_ed/feedbacks/Anna_Luiza.png)
-![](/static/img_2024/quinta_ed/feedbacks/João.png)
-![](/static/img_2024/quinta_ed/feedbacks/Pedro_Menezes.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Gestão_de_pessoas.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Daniel_José.pngg)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Alex.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/weldo.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Anna_Luiza.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/João.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Pedro_Menezes.png)
 
 ## Diretoria de Marketing - Diretor: Guilherme
 
@@ -173,11 +176,11 @@ Não
 
 #### Feedbacks recebidos:
 
-![](/static/img_2024/quinta_ed/feedbacks/Marketing.png)
-![](/static/img_2024/quinta_ed/feedbacks/Guilherme.png)
-![](/static/img_2024/quinta_ed/feedbacks/nicole.png)
-![](/static/img_2024/quinta_ed/feedbacks/Demétrius.png)
-![](/static/img_2024/quinta_ed/feedbacks/Sarah.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Marketing.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Guilherme.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/nicole.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Demétrius.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Sarah.png)
 
 ## Diretoria de Comercial - Diretor: Kaleb Henrique
 
@@ -190,11 +193,12 @@ No momento, as atividades de Comercial estão um pouco paradas devido à baixa q
 
 Vamos subir no palco da Concentra, mais um prêmio do nosso desempenho no ano.
 
-#### Feedbacks recebidos: 
-![](/static/img_2024/quinta_ed/feedbacks/Kaleb_Henrique.png)
-![](/static/img_2024/quinta_ed/feedbacks/Adriano.png)
-![](/static/img_2024/quinta_ed/feedbacks/Leonardo_Sampaio.png)
-![](/static/img_2024/quinta_ed/feedbacks/Matheus_de_Souza.png)
+#### Feedbacks recebidos:
+
+![](/static/img_2024/quinta_ed/cards_feedbacks/Kaleb_Henrique.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Adriano.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Leonardo_Sampaio.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Matheus_de_Souza.png)
 
 ## Diretoria Adm-Fin - Diretor: Pedro Ximenes
 
@@ -209,8 +213,9 @@ Inicio da automação de geração dos indicadores
 Não
 
 #### Feedbacks recebidos:
-![](/static/img_2024/quinta_ed/feedbacks/Leonardo_Pereira.png)
-![](/static/img_2024/quinta_ed/feedbacks/Maria_Eduarda.png)
+
+![](/static/img_2024/quinta_ed/cards_feedbacks/Leonardo_Pereira.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Maria_Eduarda.png)
 
 ## Diretoria de Projetos - Diretor: Matheus
 
@@ -224,12 +229,12 @@ No
 
 #### Feedbacks recebidos:
 
-![](/static/img_2024/quinta_ed/feedbacks/Projetos.png)
-![](/static/img_2024/quinta_ed/feedbacks/Pedro_de_Paula.png)
-![](/static/img_2024/quinta_ed/feedbacks/Matheus_Das_Neves.png)
-![](/static/img_2024/quinta_ed/feedbacks/Pedro_Amorim.png)
-![](/static/img_2024/quinta_ed/feedbacks/Victor_Henrique_Silva.png)
-![](/static/img_2024/quinta_ed/feedbacks/Gabriel_Ribeiro.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Projetos.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Matheus_Das_Neves.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Pedro_de_Paula.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Pedro_Amorim.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Victor_Henrique_Silva.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Gabriel_Ribeiro.png)
 
 >
 
@@ -274,9 +279,10 @@ Tentar finalizar esse template até o final do ano.
 Não.
 
 #### Feedbacks recebidos:
-![](/static/img_2024/quinta_ed/feedbacks/Squads.png)
-![](/static/img_2024/quinta_ed/feedbacks/CMS.png)
-![](/static/img_2024/quinta_ed/feedbacks/Autobots.png)
+
+![](/static/img_2024/quinta_ed/cards_feedbacks/Squads.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/CMS.png)
+![](/static/img_2024/quinta_ed/cards_feedbacks/Autobots.png)
 
 <br>
 <br>
@@ -343,9 +349,7 @@ Em uma conversa no parque para resolver as coisas que os dois estavam passando, 
 
 <br>
 
-Esse é o final bom da rota da Hanako. Agora, é hora de eu rejogar para tentar um final bom para Lilly, minha segunda escolha como personagem para ficar de olho. Talvez eu tenha esquecido de algumas coisas, talvez eu não tenha conseguido passar as emoções que senti enquanto jogava, mas, de qualquer forma, é um romance muito bonito entre um cara que acabou de descobrir sua deficiência física e garotas que estudam em Yamaku. Katawa Shoujo está gratuito na Steam, com um patch +18 na JAST, ou então você pode pegar o jogo completo sem censura na JAST e pronto. Espero que tenham gostado da rota que eu joguei e, caso acabem jogando também, que gostem dessa tanto quanto eu, ou de outras, como preferirem.
-
-Obrigado pela oportunidade de voltar a esse espaço compartilhado. Acredito que esse seja meu adeus, mas quem sabe um dia eu volte com vídeos (se inscrevam no canal) sobre assuntos que falei no começo do texto? Nah, falar sobre eroge é muito cringe; imagina colocar isso em uma newsletter da Struct. Valeu, falou e fui!
+Esse é o final bom da rota da Hanako. Agora, é hora de eu rejogar para tentar um final bom para Lilly, minha segunda escolha como personagens a se ficar de olho. Talvez eu tenha esquecido de algumas coisas, talvez eu não tenha conseguido passar as emoções que senti enquanto jogava, mas, do mesmo jeito, é um romance muito bonito entre um cara que acabou de descobrir sua deficiência física e garotas que estudam em Yamaku. Katawa Shoujo está gratuito na [Steam](https://store.steampowered.com/app/3068300/Katawa_Shoujo/), com um patch +18 na JAST, ou então você só pega o jogo completo sem censura na JAST e boa. Espero que tenham gostado da rota que eu joguei e, caso acabem jogando também, gostem dessa do mesmo jeito que eu ou das outras como quiserem. Obrigado pela oportunidade de voltar a esse espaço compartilhado. Acredito que esse finalmente seja meu adeus, mas quem sabe um dia eu volte com vídeos [(se inscreve no canal)](https://www.youtube.com/@iiiqwertyiiigd) sobre assuntos que eu falei no começo do texto? Nah, falar sobre eroge é muito cringe, imagina colocar isso em uma newsletter da Struct. Valeu, falou e fui!
 
 Obs.: Meu ranking de garotas após ver só a rota da Hanako (sem contar as secundárias):
 <br> 1º - Hanako;
@@ -354,6 +358,8 @@ Obs.: Meu ranking de garotas após ver só a rota da Hanako (sem contar as secun
 <br> 4º - Shizune;
 <br> 5º - Misha (nem é personagem com uma rota específica);
 <br> 6º - Rin.
+
+Opa, um extra, a [trilha sonora](https://music.youtube.com/playlist?list=PLaYUyMiOjzY3nD3yDgjrf8ohpRgSV3aDp) do jogo (não vou deixar vcs sem isso).
 
 <style>
     .texto_personalizado {
@@ -370,15 +376,22 @@ Obs.: Meu ranking de garotas após ver só a rota da Hanako (sem contar as secun
     }
 
     .festa {
-        width: 85%
+        width: 85%;
+        margin: auto
     }
 
     .coding {
         width: 300px;
+        margin: auto
+    }
+
+    .gigantes_destruicao {
+        margin: auto
     }
 
     .sarah_zzz {
-        width: 350px
+        width: 350px;
+        margin: auto
     }
 
     .imersao_img_01, .imersao_img_02 {
@@ -387,5 +400,9 @@ Obs.: Meu ranking de garotas após ver só a rota da Hanako (sem contar as secun
 
     .dan_escrevendo {
         width: 350px
+    }
+
+    video {
+        margin: auto
     }
 </style>
